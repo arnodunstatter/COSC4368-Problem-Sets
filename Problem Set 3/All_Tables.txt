@@ -1,0 +1,79 @@
+N:  No table
+
+F2:
+true        false       
+0.1         0.9
+
+M2:
+0           1           2           3           4           5           6           F2    N 
+1                                                                                   true  0 
+1                                                                                   true  1 
+1                                                                                   true  2 
+1                                                                                   true  3 
+0.5         0.5                                                                     true  4 
+0.333333    0.333333    0.333333                                                    true  5 
+1                                                                                   false 0 
+0           0.95        0.05                                                        false 1 
+                        0.95        0.05                                            false 2 
+                                    0.95        0.05                                false 3 
+                                                0.95        0.05                    false 4 
+                                                            0.95        0.05        false 5 
+
+F4:
+true        false       
+0.1         0.9
+
+M4:
+0           1           2           3           4           5           6           F4    N 
+1                                                                                   true  0 
+1                                                                                   true  1 
+1                                                                                   true  2 
+1                                                                                   true  3 
+0.5         0.5                                                                     true  4 
+0.333333    0.333333    0.333333                                                    true  5 
+1                                                                                   false 0 
+0           0.95        0.05                                                        false 1 
+                        0.95        0.05                                            false 2 
+                                    0.95        0.05                                false 3 
+                                                0.95        0.05                    false 4 
+                                                            0.95        0.05        false 5 
+
+F1:
+true        false       
+0.1         0.9
+
+M1:
+0           1           2           3           4           5           6           F1    N 
+1                                                                                   true  0 
+1                                                                                   true  1 
+1                                                                                   true  2 
+1                                                                                   true  3 
+0.5         0.5                                                                     true  4 
+0.333333    0.333333    0.333333                                                    true  5 
+1                                                                                   false 0 
+0           0.95        0.05                                                        false 1 
+                        0.95        0.05                                            false 2 
+                                    0.95        0.05                                false 3 
+                                                0.95        0.05                    false 4 
+                                                            0.95        0.05        false 5 
+
+F3:
+true        false       
+0.1         0.9
+
+M3:
+0           1           2           3           4           5           6           F3    N 
+1                                                                                   true  0 
+1                                                                                   true  1 
+1                                                                                   true  2 
+1                                                                                   true  3 
+0.5         0.5                                                                     true  4 
+0.333333    0.333333    0.333333                                                    true  5 
+1                                                                                   false 0 
+0           0.95        0.05                                                        false 1 
+                        0.95        0.05                                            false 2 
+                                    0.95        0.05                                false 3 
+                                                0.95        0.05                    false 4 
+                                                            0.95        0.05        false 5 
+
+
